@@ -2,7 +2,7 @@
 galaxy_info:
   role_name: repo_dovecot
   author: Peter Hudec
-  description: manage dovecot community repository
+  description: manage epel repository
   company: securCom, a.s.
   license: BSD
   min_ansible_version: 2.4
@@ -12,7 +12,7 @@ galaxy_info:
         - 6
         - 7
   galaxy_tags:
-    - dovecot
+    - epel
     - system
     - repository
 dependencies: []
