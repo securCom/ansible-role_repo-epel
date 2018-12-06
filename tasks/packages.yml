@@ -1,0 +1,6 @@
+---
+
+- name: install epel-release
+  package:
+    name: "{{ epel_repo_package }}"
+    state: "{{ epel_repo_package_state }}"

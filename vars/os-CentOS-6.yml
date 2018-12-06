@@ -1,0 +1,4 @@
+---
+
+epel_repo_supported: true
+epel_repo_package: epel-release
