@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: repo_dovecot
+  role_name: repo_epel
   author: Peter Hudec
   description: manage epel repository
   company: securCom, a.s.
