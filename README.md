@@ -1,3 +1,7 @@
+[![Build Status](https://www.travis-ci.org/securCom/ansible-role_repo-epel.svg?branch=master)](https://www.travis-ci.org/securCom/ansible-role_repo-epel)
+[![GitHub release](https://img.shields.io/github/release/securCom/ansible-role_repo-epel.svg)](https://github.com/securCom/ansible-role_repo-epel)
+
+
 # Repo: EPEL
 
 Manage Extra Packages for Enterprise Linux (or EPEL) repository.
