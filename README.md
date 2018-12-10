@@ -4,7 +4,7 @@ Manage Extra Packages for Enterprise Linux (or EPEL) repository.
 
 # Requirements
 
-Forr supported systems  see https://fedoraproject.org/wiki/EPEL. If your system is not supported,
+For supported systems  see https://fedoraproject.org/wiki/EPEL. If your system is not supported,
 the role tasks will be skipped.
 
 For supported system by this role, see the `vars/os-<system>` files.
